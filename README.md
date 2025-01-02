@@ -1,3 +1,9 @@
+## Important notice
+
+ifritdiezel, author of this work, decided to retire from the community by the end of 2024. This fork is intended to preserve his work, merely maintaining it in working state (correcting bugs that may appear). I will not do any improvement, enhancement, or other change whatsoever.
+
+Many thanks to ifritdiezel for his commitment!
+
 # IS-Seedfinder (cloned from [alessiomarotta/shpd-seed-finder](https://github.com/alessiomarotta/shpd-seed-finder))
 
 Application to find seeds for Shattered Pixel Dungeon given constraints (e.g. wand of disintegration +2 and ring of evasion in the first 4 floors).
